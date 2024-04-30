@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ebook</string>
+    <string name="button_off">Загрузить текст</string>
+    <string name="button_on">Скрыть текст</string>
+</resources>
